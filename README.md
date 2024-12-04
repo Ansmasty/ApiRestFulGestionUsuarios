@@ -34,3 +34,6 @@ La documentación de la API esta disponible en los siguientes endpoints
 Swagger: http://localhost:8000/swagger/
 ReDoc: http://localhost:8000/redoc/
 
+###### Utilización de la API
+
+El test hecho para el uso de esta API fue utilizada con postman en el cual en headers es requerido Key = Authorization y Bearer -token luego de la creacion de este- en http://localhost:8000/api/token/ <!-- para más información sobre la creación del token ingresar la documentación antes dada -->
