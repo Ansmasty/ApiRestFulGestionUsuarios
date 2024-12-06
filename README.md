@@ -36,4 +36,11 @@ ReDoc: http://localhost:8000/redoc/
 
 ###### Utilización de la API
 
+El primer usuario debe ser creado desde la terminal con python manage.py createsuperuser
+
 El test hecho para el uso de esta API fue utilizada con postman en el cual en headers es requerido Key = Authorization y Bearer -token luego de la creacion de este- en http://localhost:8000/api/token/ <!-- para más información sobre la creación del token ingresar la documentación antes dada -->
+
+###### GITHUB
+
+La aplicación esta subida en el repositorio de github 
+https://github.com/Ansmasty/ApiRestFulGestionUsuarios
